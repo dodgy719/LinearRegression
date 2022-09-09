@@ -8,7 +8,7 @@
 
 ## Lecture Materials
 
-- [Google Slides: Simple Linear Regression](https://docs.google.com/presentation/d/1DwCvkgzA0PmdwZJAqD82QJnwcR_AnGcFM74s5QxpDkQ/edit?usp=sharing)
+- [Google Slides: Simple Linear Regression](https://drive.google.com/file/d/1UzP-1BdbxxJkzo-_NS0b8zzz_Z0dnCce/view)
 - [Jupyter Notebook: Simple Linear Regression Lecture](Simple_Linear_Regression_Lecture.ipynb)
 
 # Part 2
